@@ -1,2 +1,2 @@
-vastai
+vastai_sdk
 python-dateutil>=2.8.2
